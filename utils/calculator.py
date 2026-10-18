@@ -6,5 +6,4 @@ def divide_nums(a,b):
 def sub_nums(a,b):
     return a-b
 
-def pwer(a,b):
-    return a**b
+
